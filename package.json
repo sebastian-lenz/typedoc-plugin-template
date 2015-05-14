@@ -1,0 +1,42 @@
+{
+  "name": "typedoc-plugin-template",
+  "description": "Create api documentations for typescript projects.",
+  "version": "0.1.0",
+  "homepage": "http://typedoc.io",
+  "main": "bin/plugin.js",
+  "author": {
+    "name": "Sebastian Lenz",
+    "url": "http://www.sebastian-lenz.de/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sebastian-lenz/TypeDoc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sebastian-lenz/TypeDoc/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "https://github.com/sebastian-lenz/TypeDoc/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-string-replace": "^1.0.0",
+    "grunt-ts": "^3.0.0"
+  },
+  "files": [
+    "bin",
+    "LICENSE"
+  ],
+  "keywords": [
+    "typedoc", "typedocplugin"
+  ]
+}

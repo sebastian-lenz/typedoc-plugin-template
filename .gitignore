@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+.tscache
+
+/tmp/
+/etc/
+/node_modules/
