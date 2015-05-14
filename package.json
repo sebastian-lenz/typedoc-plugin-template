@@ -1,6 +1,6 @@
 {
   "name": "typedoc-plugin-template",
-  "description": "Create api documentations for typescript projects.",
+  "description": "A template for writing plugins for TypeDoc.",
   "version": "0.1.0",
   "homepage": "http://typedoc.io",
   "main": "bin/plugin.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sebastian-lenz/TypeDoc.git"
+    "url": "git://github.com/sebastian-lenz/typedoc-plugin-template.git"
   },
   "bugs": {
-    "url": "https://github.com/sebastian-lenz/TypeDoc/issues"
+    "url": "https://github.com/sebastian-lenz/typedoc-plugin-template/issues"
   },
   "licenses": [
     {
       "type": "Apache-2.0",
-      "url": "https://github.com/sebastian-lenz/TypeDoc/blob/master/LICENSE"
+      "url": "https://github.com/sebastian-lenz/typedoc-plugin-template/blob/master/LICENSE"
     }
   ],
   "engines": {
